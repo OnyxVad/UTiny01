@@ -1,0 +1,112 @@
+﻿{
+    "Item": {
+        "Name": "Project",
+        "Size": 0,
+        "CompressedSize": 0
+    },
+    "Children": [{
+        "Item": {
+            "Name": "Runtime",
+            "Size": 0,
+            "CompressedSize": 0
+        },
+        "Children": [{
+            "Item": {
+                "Name": "TinyExport/Solitaire/html5/development/bin/runtime.js",
+                "Size": 5664364,
+                "CompressedSize": 700818
+            }
+        }]
+    }, {
+        "Item": {
+            "Name": "Assets",
+            "Size": 0,
+            "CompressedSize": 0
+        },
+        "Children": [{
+            "Item": {
+                "Name": "JavaScript",
+                "Size": 1820,
+                "CompressedSize": 0
+            }
+        }, {
+            "Item": {
+                "Name": "Assets/Art/Cards/cardBack_green3.png",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "b4592d4fcdcbf024c99fdcd1f4708b2e", "FileId": 2800000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/Assets/cardBack_green3.png",
+                    "Size": 1108,
+                    "CompressedSize": 659,
+                    "Object": { "$TypeId": 10, "Guid": "b4592d4fcdcbf024c99fdcd1f4708b2e", "FileId": 2800000, "Type": 3 }
+                }
+            }]
+        }]
+    }, {
+        "Item": {
+            "Name": "Code",
+            "Size": 0,
+            "CompressedSize": 0
+        },
+        "Children": [{
+            "Item": {
+                "Name": "TinyExport/Solitaire/html5/development/bin/entities.js",
+                "Size": 5941,
+                "CompressedSize": 1123
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "Bootstrap",
+                    "Size": 1124,
+                    "CompressedSize": 462
+                }
+            }, {
+                "Item": {
+                    "Name": "Board",
+                    "Size": 3218,
+                    "CompressedSize": 870
+                }
+            }, {
+                "Item": {
+                    "Name": "Card",
+                    "Size": 1522,
+                    "CompressedSize": 536
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "TinyExport/Solitaire/html5/development/bin/bindings.js",
+                "Size": 78526,
+                "CompressedSize": 6172
+            }
+        }, {
+            "Item": {
+                "Name": "Linked Code Files",
+                "Size": 0,
+                "CompressedSize": 0
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "D:\\git\\UNITY\\UTiny01\\TinyExport\\Solitaire\\html5\\development\\ScriptAssemblies\\tsc-emit.js",
+                    "Size": 4858,
+                    "CompressedSize": 1348
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "TinyExport/Solitaire/html5/development/bin/main.js",
+                "Size": 2576,
+                "CompressedSize": 830
+            }
+        }, {
+            "Item": {
+                "Name": "TinyExport/Solitaire/html5/development/bin/wsclient.js",
+                "Size": 9651,
+                "CompressedSize": 2635
+            }
+        }]
+    }]
+}

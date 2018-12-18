@@ -1,0 +1,34 @@
+﻿[{
+    "$TypeId": 4,
+    "Id": "4ae72f8bfebd48f083dd95ec81e1cb1a",
+    "Name": "Card",
+    "ExportFlags": 0,
+    "SerializedVersion": 0,
+    "Entities": [
+        { "$TypeId": 9, "Id": "ee28168227ce460f808c41f73abff137", "Name": "CardGfx" }
+    ]
+},
+{
+    "$TypeId": 5,
+    "Id": "ee28168227ce460f808c41f73abff137",
+    "Name": "CardGfx",
+    "Enabled": true,
+    "Static": false,
+    "Layer": 0,
+    "Components": [{
+        "Type": { "Id": "c895dbe72eb46ecb10d589d320151758", "Name": "TransformNode" }
+    }, {
+        "Type": { "Id": "70449d66178e0d9f66795c24f0fbbdfc", "Name": "TransformLocalPosition" }
+    }, {
+        "Type": { "Id": "2266a95f5d16ca1ddde710d7c047ba69", "Name": "TransformLocalRotation" }
+    }, {
+        "Type": { "Id": "f11fe490eefc969bbc3fde5eab5ccd1e", "Name": "TransformLocalScale" }
+    }, {
+        "Type": { "Id": "1c504a8a7963db0d32e89b527b90e057", "Name": "Sprite2DRenderer" },
+        "Properties": {
+            "sprite": { "$TypeId": 10, "Guid": "b4592d4fcdcbf024c99fdcd1f4708b2e", "FileId": 21300000, "Type": 3 }
+        }
+    }, {
+        "Type": { "Id": "9ed7578a2d4142a7ba3fe53cdbab6c38", "Name": "Draggable" }
+    }]
+}]
