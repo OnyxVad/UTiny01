@@ -61,7 +61,7 @@
         { "Id": "e46c24fb4d9a01e79b109bbcf6d24260", "Name": "UTiny.UILayout" },
         { "Id": "0036a762abaa4db69e0bdf7f8fc6a2b3", "Name": "Main" }
     ],
-    "StartupEntityGroup": { "Id": "f8bf37ec22774f239f2cf71fb69440a6", "Name": "Board" }
+    "StartupEntityGroup": { "Id": "fe124713f13f438ab8e5324c62477ee6", "Name": "Bootstrap" }
 },
 {
     "$TypeId": 5,
