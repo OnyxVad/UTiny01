@@ -1,0 +1,12 @@
+﻿[{
+    "$TypeId": 3,
+    "Id": "d6282a8ba73c411e868a8feff2f3911d",
+    "Name": "Dragged",
+    "ExportFlags": 0,
+    "Unlisted": false,
+    "Visibility": 0,
+    "TypeCode": "Component",
+    "DefaultValue": {
+        "Type": { "Id": "d6282a8ba73c411e868a8feff2f3911d", "Name": "Dragged" }
+    }
+}]

@@ -123,8 +123,8 @@
             "size": {
                 "Type": { "Id": "3abb69286ddfc2d1c617a173c1eeb35d", "Name": "Vector2" },
                 "Properties": {
-                    "x": 0,
-                    "y": 0
+                    "x": 1110,
+                    "y": 624
                 }
             }
         }
@@ -214,6 +214,8 @@
                 }
             }
         }
+    }, {
+        "Type": { "Id": "5a68c59783d93e60c704f63111bcb0ad", "Name": "Sprite2DRendererHitBox2D" }
     }]
 },
 {
@@ -300,6 +302,8 @@
                 }
             }
         }
+    }, {
+        "Type": { "Id": "5a68c59783d93e60c704f63111bcb0ad", "Name": "Sprite2DRendererHitBox2D" }
     }]
 },
 {

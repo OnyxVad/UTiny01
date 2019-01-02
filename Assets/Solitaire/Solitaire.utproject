@@ -5,8 +5,8 @@
     "ExportFlags": 0,
     "SerializedVersion": 6,
     "Settings": {
-        "CanvasWidth": 1920,
-        "CanvasHeight": 1080,
+        "CanvasWidth": 1280,
+        "CanvasHeight": 720,
         "EmbedAssets": true,
         "CanvasAutoResize": true,
         "RenderMode": 0,
@@ -59,7 +59,8 @@
         { "Id": "a1b50987659c653138795a8f4079fc10", "Name": "UTiny.Math" },
         { "Id": "ce3f1bd7050540b70d450a606e226ea2", "Name": "UTiny.Shared" },
         { "Id": "e46c24fb4d9a01e79b109bbcf6d24260", "Name": "UTiny.UILayout" },
-        { "Id": "0036a762abaa4db69e0bdf7f8fc6a2b3", "Name": "Main" }
+        { "Id": "0036a762abaa4db69e0bdf7f8fc6a2b3", "Name": "Main" },
+        { "Id": "36f73ad23c8a63c53fa510f0621474f5", "Name": "UTiny.HitBox2D" }
     ],
     "StartupEntityGroup": { "Id": "fe124713f13f438ab8e5324c62477ee6", "Name": "Bootstrap" }
 },
@@ -73,8 +74,8 @@
     "Components": [{
         "Type": { "Id": "575fe161bc06950c954480d04c70c9ab", "Name": "DisplayInfo" },
         "Properties": {
-            "width": 1920,
-            "height": 1080,
+            "width": 1280,
+            "height": 720,
             "autoSizeToFrame": true
         }
     }]
